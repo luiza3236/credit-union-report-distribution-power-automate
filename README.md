@@ -142,4 +142,4 @@ Testing was performed in a controlled setup before production:
 
 **Luiza Lisboa**
 Credit Risk and Data Modeling Coordinator | Credit Risk | Data Analytics | Applied AI | Process Automation
-LinkedIn: [your-linkedin-url]
+LinkedIn: Luiza Lisboa 
